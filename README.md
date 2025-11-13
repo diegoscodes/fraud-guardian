@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/diegoscodes/fraud-guardian/blob/main/banner.png" alt="Project Banner" width="100%">
+  <img src="https://github.com/diegoscodes/fraud-guardian/blob/main/banner.png" alt="Project Banner" width="90%">
 </p>
 
 
