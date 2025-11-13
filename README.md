@@ -22,7 +22,7 @@ It includes:
 - Simple API (FastAPI) + Interactive web dashboard (Streamlit)
 
 ---
-´´´
+```
 ## 🧱 Project Structure
 
 fraud-guardian/
@@ -47,7 +47,7 @@ fraud-guardian/
 ├── requirements.txt
 └── README.md
 
-´´´
+```
 
 ---
 
