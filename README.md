@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/diegoscodes/fraud-guardian/blob/main/banner.png" alt="Project Banner" width="100%">
+</p>
+
+
 # 🛡️ Fraud Guardian
 
 An **end-to-end credit card fraud detection** project designed for portfolio and real-world demonstration.  
