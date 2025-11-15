@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/diegoscodes/fraud-guardian/blob/main/banner.png" alt="Project Banner" width="50%">
+</p>
+
+
 # 🛡️ Fraud Guardian
 
 An **end-to-end credit card fraud detection** project designed for portfolio and real-world demonstration.  
@@ -17,7 +22,7 @@ It includes:
 - Simple API (FastAPI) + Interactive web dashboard (Streamlit)
 
 ---
-
+```
 ## 🧱 Project Structure
 ```powershell
 fraud-guardian/
@@ -43,6 +48,10 @@ fraud-guardian/
 └── README.md
 ```
 
+<<<<<<< HEAD
+=======
+```
+>>>>>>> 209314d5f847127a14a3f83cf063277199c63ae8
 
 ---
 
