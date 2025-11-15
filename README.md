@@ -1,3 +1,5 @@
+![status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+
 <p align="center">
   <img src="https://github.com/diegoscodes/fraud-guardian/blob/main/banner.png" alt="Project Banner" width="50%">
 </p>
