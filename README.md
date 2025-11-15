@@ -19,7 +19,7 @@ It includes:
 ---
 
 ## 🧱 Project Structure
-
+```powershell
 fraud-guardian/
 │
 ├── 📂 api/ → FastAPI backend for predictions
@@ -41,9 +41,8 @@ fraud-guardian/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
-yaml
-Copy code
 
 ---
 
@@ -75,8 +74,10 @@ Explainability	SHAP
 Fairness & Ethics	Fairlearn
 Web Framework	FastAPI, Streamlit
 Deployment	Docker, Uvicorn
-
-🧠 Current Progress
+```
+---
+ 
+## 🧠 Current Progress
  Repository initialized
 
  Project structure created
@@ -91,19 +92,21 @@ Deployment	Docker, Uvicorn
 
  Docker & CI/CD pipeline
 
-📅 Roadmap
+---
+
+## 📅 Roadmap
 Phase	Description	Status
 1️⃣	Data loading & preprocessing	🔄 In progress
 2️⃣	Modeling (LR + XGBoost)	⏳ Pending
 3️⃣	SHAP explainability	⏳ Pending
 4️⃣	Streamlit & FastAPI deployment	⏳ Pending
 5️⃣	Docker containerization	⏳ Pending
-
-🧩 About
+---
+## 🧩 About
 This project was built for educational and portfolio purposes.
 It demonstrates the principles of Responsible AI, model explainability, and cost-based decision-making in fraud detection.
-
-🧑‍💻 Author
+---
+## 🧑‍💻 Author
 Diego Ferreira
 AI & Machine Learning Developer
 LinkedIn • GitHub
